@@ -7,6 +7,8 @@
 * Google doc (through mail)
 * [Slack channel](https://slack.com)
 
+## Hello world
+
 ## Learning outcomes
 
 ### General learning outcomes
